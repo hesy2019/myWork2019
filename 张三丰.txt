@@ -1,0 +1,4 @@
+﻿张三丰
+您的身份证已保存在/c/users/heshiyang/.ssh/id_rsa中。
+
+您的公钥已保存在/c/Users/heshiyang/.ssh/id_rsa.pub中。
